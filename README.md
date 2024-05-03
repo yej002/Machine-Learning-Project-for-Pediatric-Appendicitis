@@ -10,7 +10,15 @@ The goal of this assignment is to apply the knowledge of machine learning that I
 ### Outcome:
 In Jupiter Notebook, I demonstrated my learnings in the following:
 - Data Exploring & Data Cleaning
+  - define my own imputation rules for missing data
+  - define preprocessor to clean and process the data for the machine learning models
 - Model Training & Cross-Validation Testing
+  - models include Random Forest, Decision Tree, K Nearest Neighbors, Support Vector Machines
 - Multiple Learning Models Comparison
+  - a comparison of training accuracy and validation accuracy between models
 - Tuning & Extraction
+  - applied hyperparameter tuning on the Random Forest model
 - Visualizations
+  - a bar chart for model performance comparison
+  - a bar chart for the top 10 important features in pediatric appendicitis prediction
+  - a pie chart for the top 5 important features in pediatric appendicitis prediction
